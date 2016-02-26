@@ -1,0 +1,11 @@
+
+/* IF IE8 */
+.logo,.tel,.t_li,.aside_up,.banner,.section_01 img + img,.diary_detials img:first-child,.section_03_main > section + section + section + section + section,.course1_blue,.course2_blue{display:none;}
+.nav li{background-color:#e06b64;}
+.nav li + li{background-color:#1B9A7D;}
+.nav li + li + li{background-color:#009EB0;}
+.nav li + li + li + li{background-color:#7e4b83;}
+.nav li + li + li + li + li{background-color:#755155;}
+.nav li + li + li + li + li + li{background-color:#545b6d;}
+.nav li + li + li + li + li + li + li{width:100%; background-color:#000; text-align:center;}
+.nav li + li + li + li + li + li + li > div{width:14px; position:relative;}
