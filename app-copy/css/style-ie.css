@@ -1,0 +1,8 @@
+
+/* IF IE8 */
+.tel > p + p{float:right;}
+.step_summary > p + p{color:#12b5e9;}
+.step:first-child{left:102px;}
+.step:first-child + .step{left:295px;}
+.step:first-child + .step + .step{left:503px;}
+.step > p + p{width:210px; color:#12b5e9; margin:60px 0px 0px -46px;}
